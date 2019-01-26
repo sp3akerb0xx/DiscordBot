@@ -1,0 +1,8 @@
+{
+“name”: “Mainframe”,
+“version”: “1.0.0”,
+“description”: “UGA CS Bot",
+“main”: “bot.py”,
+“author”: “Nitin Chennam",
+“dependencies”: {}
+}
